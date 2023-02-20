@@ -2,6 +2,8 @@
 
 We are a decentralized web3 community established at Bursa Uludag University. In the upcoming period, we will design, code, and develop web3 applications.
 
+![](https://github.com/ULUBLOCK/.github/blob/main/profile/gifs/ulublock.gif)
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ulublock/) 
